@@ -17,3 +17,10 @@ Multipart form data upload directory is specified in the application.properties 
 | `/addProduct`                  | Adds new Product.                                                          |
 | `/changeProductGroup`          | Changes product's group.                                                   |
 | `/getGroupProducts`            | Fetches count and sum of prices of all products associated with each Group |
+
+
+## Screen Shots
+
+| Populate Db Api                                | Get Group Products API                         |
+| ---------------------------------------------- | ---------------------------------------------- |
+| ./resources/populateDb.png                     | ./resources/getGroupProducts                   |
